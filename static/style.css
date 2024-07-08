@@ -97,6 +97,10 @@ iframe {
   border-radius: 15px;
 }
 
+.visit_place{
+  margin-left: 160px;
+}
+
 
 @media screen and (max-width: 990px) {
   .image2 {
@@ -121,6 +125,13 @@ iframe {
   }
   #box p {
     margin-top: 30px;
+    margin-left: 0;
+  }
+  .about {
+    display: block;
+    text-align: center;
+  }
+  .visit_place{
     margin-left: 0;
   }
 }
